@@ -1,0 +1,41 @@
+{
+    "inputContentType": "CSV",
+    "outputContentType": "CSV",
+        "input": [
+                    {
+                        "name": "sepal.length",
+                        "type": "DECIMAL"
+                    },
+                    {
+                        "name": "sepal.width",
+                        "type": "DECIMAL"
+                    },
+                    {
+                        "name": "petal.length",
+                        "type": "DECIMAL"
+                    },
+                
+                    {
+                        "name": "petal.width",
+                        "type": "DECIMAL"
+                    }
+                  
+        
+
+                ],
+                "output":[
+                    {
+                        "name": "variety",
+                        "type": "DECIMAL"
+      
+                    }
+                ],
+                "description": "Use ml.m4.xlarge instance for small datasets, and ml.m4.4xlarge for datasets over 10 GB",
+                "version": "1.0",
+                "instanceCount": 1,
+                "instanceTypes": [
+                    "ml.m4.xlarge",
+                    "ml.m4.4xlarge"
+                ],
+                "defaultInstanceType": "ml.m4.xlarge"
+    }
