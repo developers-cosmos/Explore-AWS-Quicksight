@@ -1,5 +1,5 @@
 <h1>Augmenting QuickSight With Sagemaker <img src=
-'Images/augment.png'> </h1>
+'Images/augment.png' height='30' width='75'> </h1>
 
 > Using Amazon QuickSight with Amazon SageMaker models can save the time that you might otherwise spend managing data movement and writing code. The results are useful both for evaluating the model and—when you're satisfied with the results—for sharing with decision-makers. You can begin immediately after the model is built. Doing this surfaces your data scientists' prebuilt models, and enables you to apply the data science to your datasets. Then you can share these insights in your predictive dashboards. With the Amazon QuickSight serverless approach, the process scales seamlessly, so you don't need to worry about inference or query capacity. 
 
