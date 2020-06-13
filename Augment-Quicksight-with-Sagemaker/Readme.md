@@ -53,6 +53,6 @@
 <a href=https://docs.aws.amazon.com/quicksight/latest/user/sagemaker-integration.html> AWS Documentation </a>
 
 <h2> Thank You :D </h2><br>
-Hope you found it insightful. If you have any queries you can mail me at: kumartharun435@gmail.com.
+Hope you found it insightful. If you have any queries you can mail me at: <b>kumartharun435@gmail.com.</b>
 I would love to hear feedback from you to improvise it and make it better!
 
