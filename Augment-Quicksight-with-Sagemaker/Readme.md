@@ -6,20 +6,20 @@
 <h2>STEPS TO FOLLOW</h2>
 <p> I am Taking Iris data set to make Predictions and Augment with sagemaker.</p>
 
-<h3> 1. Connect To Data or Upload Data.
+<h3> 1. Connect To Data or Upload Data.<br>
 <img src='Images/3.png'>
 
 <h3><i> <b>Note : Your Data Should not Contain Output Varible Column. When you Augment Sagameker with Quicksight , Model Predicts Input and appends output for the given Data.</h2>
-<h3> 2. Go to Edit Settings and Prepare Data</b> </i></h3>
+<h3> 2. Go to Edit Settings and Prepare Data</b> </i></h3><br>
 <img src='Images/4.png'>
 
-<h3> 3.Click Augment with SageMaker</h3>
+<h3> 3.Click Augment with SageMaker</h3><br>
 <img src='Images/5.png'>
 
-<h3> 4. Select Your Model</h3>
-<img src='/Images/6.png'>
+<h3> 4. Select Your Model</h3><br>
+<img src='Images/6.png'>
 
-<h3> 5. Upload Schema File</h3>
+<h3> 5. Upload Schema File</h3><br>
 <p> It contains Details of Your Input, Output Variables and their  data types.</p>
 
 
@@ -31,11 +31,11 @@
 
 <img src='Images/7.png'>
 
-<h3> 6. Correctly Map the Input and Output Data Fields</h3>
+<h3> 6. Correctly Map the Input and Output Data Fields</h3><br>
 <img src='Images/8.png'>
 <img src='Images/9.png'>
 
-<h3> 7. Save and Visualize </h3>
+<h3> 7. Save and Visualize </h3><br>
 <img src='Images/10.png'>
 
 <h3> 8. QuickSight Initiates a batch tranform job , predicts the output using Your Model and stores the result appended to your dataset in SPICE.</h3>
@@ -51,6 +51,7 @@
 
 <a href=https://docs.aws.amazon.com/quicksight/latest/user/sagemaker-integration.html> AWS Documentation </a>
 
-<h2> Thank You :D </h2>
-<p>Hope you found it insightful. If you have any queries you can mail me at : <b> kumartharun435@gmail.com </b> .I would love to hear feedback from you to improvise it and make it better! </p>
+<h2> Thank You :D </h2><br>
+Hope you found it insightful. If you have any queries you can mail me at: kumartharun435@gmail.com
+I would love to hear feedback from you to improvise it and make it better!
 
