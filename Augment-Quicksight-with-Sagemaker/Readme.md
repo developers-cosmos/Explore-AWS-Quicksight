@@ -6,7 +6,8 @@
 <h2>STEPS TO FOLLOW</h2>
 <p> I am Taking Iris data set to make Predictions and Augment with sagemaker.</p>
 
-<h3> 1. Connect To Data or Upload Data.<br>
+<h3> 1. Connect To Data or Upload Data.
+<br><br>
 <img src='Images/3.png'>
 
 <h3><i> <b>Note : Your Data Should not Contain Output Varible Column. When you Augment Sagameker with Quicksight , Model Predicts Input and appends output for the given Data.</h2>
@@ -52,6 +53,6 @@
 <a href=https://docs.aws.amazon.com/quicksight/latest/user/sagemaker-integration.html> AWS Documentation </a>
 
 <h2> Thank You :D </h2><br>
-Hope you found it insightful. If you have any queries you can mail me at: kumartharun435@gmail.com
+Hope you found it insightful. If you have any queries you can mail me at: kumartharun435@gmail.com.
 I would love to hear feedback from you to improvise it and make it better!
 
